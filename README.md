@@ -4,7 +4,7 @@
 
 I'm a Software Global Black Belt at Microsoft and the creator of [**APM (Agent Package Manager)**](https://github.com/microsoft/apm) — the open-source tool teams use to manage AI agent configurations the way they manage code. I designed the [**PROSE framework**](https://danielmeppiel.github.io/awesome-ai-native/) for writing agent specifications that hold up in production, and I wrote [**The Agentic SDLC Handbook**](https://danielmeppiel.github.io/agentic-sdlc-handbook/) to put the whole methodology in one place.
 
-Before Microsoft: GitHub, Sonar, four years as CTO and co-founder of WeGaw, and earlier engineering work at Avaloq and CERN. Based in France. 🇫🇷
+Before Microsoft: GitHub, Sonar, four years as CTO and co-founder of WeGaw, and earlier engineering work at CERN. 
 
 ---
 
