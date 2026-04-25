@@ -46,7 +46,7 @@ I talk about what changes — for the org, the codebase, and the developer's day
 
 #### A note on the journey
 
-I don't think anyone has this fully figured out yet — including me. APM, agentrc, and PROSE work, but the field moves fast and the methodology evolves with every project. If you're building in this space, I'd genuinely love to compare notes.
+I don't think anyone has this fully figured out yet — including me. APM, agentrc, and genesis were born from ingenuity and breaking things, and they're evolving fast. If you're building in this space, I'd genuinely love to compare notes.
 
 → The fastest way to stay in the loop: **[subscribe to the handbook updates](https://danielmeppiel.github.io/agentic-sdlc-handbook/download.html)**.
 
