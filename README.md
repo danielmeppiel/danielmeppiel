@@ -2,7 +2,7 @@
 
 **I work on the methodology and tools for building software with AI agents at enterprise scale.**
 
-I'm a Global Black Belt at Microsoft and the creator of [**APM (Agent Package Manager)**](https://github.com/microsoft/apm) — the open-source tool teams use to manage AI agent configurations the way they manage code. I designed the **PROSE framework** for writing agent specifications that hold up in production, and I wrote [**The Agentic SDLC Handbook**](https://danielmeppiel.github.io/agentic-sdlc-handbook/) to put the whole methodology in one place.
+I'm a Global Black Belt at Microsoft and the creator of [**APM (Agent Package Manager)**](https://github.com/microsoft/apm) — the open-source tool teams use to manage AI agent configurations the way they manage code. I designed the [**PROSE framework**](https://danielmeppiel.github.io/awesome-ai-native/) for writing agent specifications that hold up in production, and I wrote [**The Agentic SDLC Handbook**](https://danielmeppiel.github.io/agentic-sdlc-handbook/) to put the whole methodology in one place.
 
 Before Microsoft: GitHub, Sonar, four years as CTO and co-founder of WeGaw, and earlier engineering work at Avaloq and CERN. Based in France. 🇫🇷
 
@@ -27,7 +27,7 @@ Before Microsoft: GitHub, Sonar, four years as CTO and co-founder of WeGaw, and 
 | **[microsoft/apm](https://github.com/microsoft/apm)** | Agent Package Manager. The category I think is missing. |
 | **[microsoft/agentrc](https://github.com/microsoft/agentrc)** | The convention for getting a codebase ready for AI agents. |
 | **[agentic-sdlc-handbook](https://github.com/danielmeppiel/agentic-sdlc-handbook)** | The book — written using the methodology it teaches. |
-| **[awesome-ai-native](https://github.com/danielmeppiel/awesome-ai-native)** | The PROSE framework, distilled. Start here if you're a practitioner. |
+| **[awesome-ai-native](https://danielmeppiel.github.io/awesome-ai-native/)** | The PROSE framework, distilled. Start here if you're a practitioner. |
 | **[genesis](https://github.com/danielmeppiel/genesis)** | First-principles R&D for agentic primitives. Early. Rough. Honest. |
 | **[oracle-mcp-server](https://github.com/danielmeppiel/oracle-mcp-server)** | MCP server for working with very large Oracle schemas. |
 | **[meeting-2-code](https://github.com/danielmeppiel/meeting-2-code)** | End-to-end agentic SDLC demo: Teams meeting → shipped Azure feature. |
