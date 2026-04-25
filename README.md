@@ -13,7 +13,7 @@ Before Microsoft: GitHub, Sonar, four years as CTO and co-founder of WeGaw, and 
 - 📘 **[The Agentic SDLC Handbook](https://danielmeppiel.github.io/agentic-sdlc-handbook/)** — released as a pre-release edition; shipping refinements and new case studies continuously.
 - 📦 **[microsoft/apm](https://github.com/microsoft/apm)** — Agent Package Manager. `apm install`, `apm compile`. The 2-command pattern Fortune 500 teams are adopting.
 - 📐 **[microsoft/agentrc](https://github.com/microsoft/agentrc)** — *Get your repo ready for AI.* The companion convention for instrumenting codebases.
-- 🧬 **[genesis](https://github.com/danielmeppiel/genesis)** — a design discipline for agent skills, agents, and instruction files. Markdown that steers an LLM is code — design it *before* you write it. Portable across Claude Code, Copilot, Cursor, OpenCode, Codex.
+- 🧬 **[genesis](https://github.com/danielmeppiel/genesis)** — an architect's discipline for designing agentic systems across primitives (skills, agents, instructions, orchestrators, plans). *Markdown that steers an LLM is code — design it before you write it.* Portable across Claude Code, Copilot, Cursor, OpenCode, Codex.
 - ✍️ **[The AI-Native Mind](https://theainativemind.com/)** — short essays on what AI-native development looks like once the demo ends.
 
 > *Updated monthly. If this is stale, I owe you a coffee.*
@@ -26,9 +26,9 @@ Three tools → the methodology → proof of range.
 
 | Project | Why it's here |
 |---|---|
-| **[microsoft/apm](https://github.com/microsoft/apm)** | Agent Package Manager. Org-level: how teams ship and share AI agent capabilities. |
-| **[microsoft/agentrc](https://github.com/microsoft/agentrc)** | Codebase-level: the convention for getting a repo ready to receive agents. |
-| **[genesis](https://github.com/danielmeppiel/genesis)** | Skill-level: a design discipline for what goes *inside* agent skills & instruction files. |
+| **[microsoft/apm](https://github.com/microsoft/apm)** | Agent Package Manager. How AI agent capabilities are packaged, versioned, and shared across teams. |
+| **[microsoft/agentrc](https://github.com/microsoft/agentrc)** | The convention for getting a codebase ready to be worked on by AI agents. |
+| **[genesis](https://github.com/danielmeppiel/genesis)** | An architect's discipline for designing agentic systems — across skills, agents, instructions, orchestrators, plans. Harness-portable. |
 | **[agentic-sdlc-handbook](https://github.com/danielmeppiel/agentic-sdlc-handbook)** | The book that ties all three together — written using the methodology it teaches. |
 | **[awesome-ai-native](https://danielmeppiel.github.io/awesome-ai-native/)** | The PROSE framework, distilled. Start here if you're a practitioner. |
 | **[meeting-2-code](https://github.com/danielmeppiel/meeting-2-code)** | End-to-end proof: Teams meeting → shipped Azure feature, fully agentic. |
