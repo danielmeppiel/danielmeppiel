@@ -22,15 +22,17 @@ Before Microsoft: GitHub, Sonar, four years as CTO and co-founder of WeGaw, and 
 
 #### 🧰 Pinned work — the throughline
 
-| | |
+Three tools → the methodology → proof of range.
+
+| Project | Why it's here |
 |---|---|
-| **[microsoft/apm](https://github.com/microsoft/apm)** | Agent Package Manager. The category I think is missing. |
-| **[microsoft/agentrc](https://github.com/microsoft/agentrc)** | The convention for getting a codebase ready for AI agents. |
-| **[agentic-sdlc-handbook](https://github.com/danielmeppiel/agentic-sdlc-handbook)** | The book — written using the methodology it teaches. |
+| **[microsoft/apm](https://github.com/microsoft/apm)** | Agent Package Manager. Org-level: how teams ship and share AI agent capabilities. |
+| **[microsoft/agentrc](https://github.com/microsoft/agentrc)** | Codebase-level: the convention for getting a repo ready to receive agents. |
+| **[genesis](https://github.com/danielmeppiel/genesis)** | Skill-level: a design discipline for what goes *inside* agent skills & instruction files. |
+| **[agentic-sdlc-handbook](https://github.com/danielmeppiel/agentic-sdlc-handbook)** | The book that ties all three together — written using the methodology it teaches. |
 | **[awesome-ai-native](https://danielmeppiel.github.io/awesome-ai-native/)** | The PROSE framework, distilled. Start here if you're a practitioner. |
-| **[genesis](https://github.com/danielmeppiel/genesis)** | A design discipline for agent skills & instruction files. Names the primitives, maps GoF onto agent design, gives you a process loop. |
-| **[oracle-mcp-server](https://github.com/danielmeppiel/oracle-mcp-server)** | MCP server for working with very large Oracle schemas. |
-| **[meeting-2-code](https://github.com/danielmeppiel/meeting-2-code)** | End-to-end agentic SDLC demo: Teams meeting → shipped Azure feature. |
+| **[meeting-2-code](https://github.com/danielmeppiel/meeting-2-code)** | End-to-end proof: Teams meeting → shipped Azure feature, fully agentic. |
+| **[oracle-mcp-server](https://github.com/danielmeppiel/oracle-mcp-server)** | MCP server for very large Oracle schemas — serious engineering outside the AI-native bubble. |
 
 ---
 
